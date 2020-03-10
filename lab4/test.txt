@@ -1,0 +1,7 @@
+
+
+roi1: first test. BPM is 70 ish
+
+roi2: Tobias 1. BPM ranging from 60 to 50 over the test. 
+
+roi3: Tobias 2. BPM is 55. 
